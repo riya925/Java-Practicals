@@ -1,0 +1,5 @@
+
+ Name = Riya 
+ Department = Computer 
+ Er No = 108 
+ Class = TYCE2 
